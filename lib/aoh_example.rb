@@ -16,11 +16,11 @@ end
 def literal_aoh
  
  [ {:name => "Don Gately", 
-  :occupation => "Live-in Staff"}
+  :occupation => "Live-in Staff"},
   {:name => "Joelle van Dyne",
-  :occupation => "Radio Personality"}
+  :occupation => "Radio Personality"},
   {:name => "Kate Gompert", 
-  :occupation => "None"}
+  :occupation => "None"},
   {:name => "Bruce Green", 
   :occupation => "Fan of Mildred"}
   ]
